@@ -1,0 +1,5 @@
+{
+  "name": "NextGen SSG Showcase",
+  "description": "A modern React-based static-site-generation showcase with Gemini AI integration for content analysis and summarization.",
+  "requestFramePermissions": []
+}
